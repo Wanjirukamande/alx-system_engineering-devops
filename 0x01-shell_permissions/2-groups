@@ -1,4 +1,4 @@
 #!/bin/bash
-lp groups
+lpr 2-groups
 
 
